@@ -1,5 +1,6 @@
 Сбор и предварительный анализ данных в Excel 
 
+![ProjFlowRAN23_2](https://user-images.githubusercontent.com/126348122/235665045-f725c6f4-0940-4ed3-b54a-bce6f8b9aff4.png)
 
 ![Screenshot 2023-03-14 021408](https://user-images.githubusercontent.com/126348122/229847440-008aa25a-55d8-4ad9-9c95-a3882b1aa074.jpg)
 
