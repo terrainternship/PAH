@@ -27,8 +27,12 @@ VVP_predict2.exe >> Report.txt
 Так же можно сохранить графики вручную через кнопки 
 ![image](https://github.com/terrainternship/PAH/assets/126348122/9684a5c8-5e01-4b71-8c95-7248edbb768c)
 
+В директории после работы с программой 
+![image](https://github.com/terrainternship/PAH/assets/126348122/bbb7f996-3c94-4fe3-842c-de40b501685a)
 
-![image](https://github.com/terrainternship/PAH/assets/126348122/45ea9a2b-ed70-4c5b-9349-2656c49e999c)
+
+
+
 
 
 ![image](https://github.com/terrainternship/PAH/assets/126348122/27873d79-e442-48a1-847d-1fe2786fc837)
